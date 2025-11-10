@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace SmartHomeController
 {
-    internal class SmartSpeaker : SmartDevice
-    {
+    internal class User
+    { 
     }
+    
 }
